@@ -1,0 +1,9 @@
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.deps.json
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.pdb
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csprojAssemblyReference.cache
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.pdb

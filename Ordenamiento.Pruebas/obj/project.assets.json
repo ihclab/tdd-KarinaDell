@@ -1617,6 +1617,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Ordenamiento/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Ordenamiento.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordenamiento.dll": {}
+        }
       }
     }
   },
@@ -5811,6 +5821,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Ordenamiento/1.0.0": {
+      "type": "project",
+      "path": "../Ordenamiento/Ordenamiento.csproj",
+      "msbuildProject": "../Ordenamiento/Ordenamiento.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5818,7 +5833,8 @@
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "Ordenamiento >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5848,7 +5864,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Catalina\\Desktop\\tdd-KarinaDell\\Ordenamiento\\Ordenamiento.csproj": {
+              "projectPath": "C:\\Users\\Catalina\\Desktop\\tdd-KarinaDell\\Ordenamiento\\Ordenamiento.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

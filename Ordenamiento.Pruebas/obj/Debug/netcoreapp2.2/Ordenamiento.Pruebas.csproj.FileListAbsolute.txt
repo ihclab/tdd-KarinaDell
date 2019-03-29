@@ -1,0 +1,17 @@
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csprojAssemblyReference.cache
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.deps.json
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.runtimeconfig.json
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.runtimeconfig.dev.json
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.dll
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.pdb
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.dll
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.pdb
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csproj.CopyComplete
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.dll
+C:\Users\Catalina\Desktop\tdd-KarinaDell\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.pdb
